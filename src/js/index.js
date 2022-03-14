@@ -8,7 +8,7 @@ crir 2 var para os elementos na tela
 
 remover a classe aberto(display block)
 
-evento de clique
+evento de clique(2)
 
 id para cada pokemon para identificar qual cartao mostrar
 
