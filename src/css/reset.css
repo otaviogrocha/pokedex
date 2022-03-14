@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;    
 }
-ul {
+ul{
     list-style-type: none; /*sem bolinha na lista (ul)*/
+}
+.cartao_pokemon .cartao_info .habilidades > ul{
+    list-style-type: initial;
 }
