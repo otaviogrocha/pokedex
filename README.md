@@ -1,7 +1,8 @@
 # Pokedex
 
+Live Demo: https://otaviogrocha.github.io/pokedex/
 
- Projeto de criação de pokedex dinâmica com HTML, CSS e JavaScript.
+ ## Projeto de criação de pokedex dinâmica com HTML, CSS e JavaScript.
  
  - Desenvolvimento de Lógica Web;
  - Manipulação de Classes;
